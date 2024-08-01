@@ -8,4 +8,5 @@ This URCap activates a Toolbar where you can find usefull informations:
 - CPU load
 - MEM load
 
-![image](https://user-images.githubusercontent.com/122785824/212673187-a4991ca9-591c-4e89-97e9-25def19a3cba.png)
+![image](https://github.com/user-attachments/assets/9c8ac247-b6c3-455c-a03e-0db50ee043a2)
+
